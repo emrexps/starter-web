@@ -16,6 +16,8 @@ deployment
 
 ## How To Contribute
 
+fork and then pull request for review
+
 contribution
 
 ### Copyright
