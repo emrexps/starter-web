@@ -22,6 +22,6 @@ contribution
 
 ### Copyright
 
-copyright git
+copyright git.All rights reserverd
 
 
